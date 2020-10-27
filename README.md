@@ -5,9 +5,9 @@ Beberapa kaligrafi Arab siap pakai untuk digunakan di kepentingan dakwah.
 Tulisan yang tersedia di repo ini:
 1. Innaa Lillahi wa innaa ilaihi raaji'uun
 2. Kitaabut Tauhid
+3. Riyadlus Sholihin
 
 ## TODO
-- Riyadlus Sholihin
 - Salam
 
 ## Request
