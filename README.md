@@ -9,6 +9,10 @@ Tulisan yang tersedia di repo ini:
 
 3. Riyadlus Sholihin - [Download](https://raw.githubusercontent.com/atmorojo/ArabicCalligraphy/main/Riyadlush-shalihin_CC-BY-4.svg)
 
+## Preview
+Untuk melihat tampilan kaligrafi yang tersedia di repo ini, kunjungi link
+berikut: [Preview](https://github.com/atmorojo/ArabicCalligraphy/blob/main/PREVIEW.md)
+
 ## TODO
 - Salam
 - Taqabbalallau minna wa minkum 
