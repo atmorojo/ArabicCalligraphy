@@ -8,19 +8,21 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="297mm"
-   height="210mm"
-   viewBox="0 0 297 209.99999"
+   width="207.39729mm"
+   height="100.32813mm"
+   viewBox="0 0 207.39729 100.32813"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="ramadan final.svg">
+   sodipodi:docname="Ramadan-Mubarak_CC-BY-4.svg">
+  <title
+     id="title266">Ramadan Mubarak</title>
   <defs
      id="defs2">
     <color-profile
        name="Coated-FOGRA27--ISO-12647-2:2004-"
        xlink:href="file:///home/atmorojo/.color/icc/CoatedFOGRA27.icc"
-       id="color-profile179" />
+       id="color-profile234" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -29,9 +31,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.48652381"
-     inkscape:cx="635.25026"
-     inkscape:cy="499.3412"
+     inkscape:zoom="0.58403657"
+     inkscape:cx="391.93189"
+     inkscape:cy="189.59646"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -40,14 +42,18 @@
      borderlayer="true"
      inkscape:pagecheckerboard="true"
      inkscape:showpageshadow="false"
-     inkscape:snap-global="false">
+     inkscape:snap-global="false"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10">
     <inkscape:grid
        type="xygrid"
        id="grid7"
        color="#5d6477"
        opacity="0.09019608"
-       originx="0"
-       originy="0"
+       originx="-44.801352"
+       originy="-46.756061"
        empcolor="#5d6477"
        empopacity="0.19607843"
        units="px"
@@ -63,15 +69,36 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title>Ramadan Mubarak</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+        <dc:date>9 April 2021</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Risyad Rais</dc:title>
+          </cc:Agent>
+        </dc:creator>
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-11.249989)">
+     transform="translate(-44.801351,-58.006049)">
     <g
        id="g314"
        transform="matrix(1.230138,0,0,1.230138,-39.304672,24.84742)"
